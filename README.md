@@ -1,2 +1,2 @@
 # CreditCardChecker
-Challenge Project: Credit Card Checker using  Luhn algorithm
+Codecademy Javascript challenge Project: Credit Card Checker using  Luhn algorithm
